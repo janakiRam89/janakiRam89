@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 >Hi 👋, I'm janaki ramayya</h1>
 <h3> Java developer,I am open to learn new and diversified technologies 
 without boundaries to enhance my professional skills. </h3>
